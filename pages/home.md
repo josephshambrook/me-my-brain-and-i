@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Me, My Brain, and I
-date: 2016-01-01T00:00:00.000Z
+date: 2021-01-08T21:35:57.330Z
 permalink: /
 eleventyNavigation:
   key: Home
